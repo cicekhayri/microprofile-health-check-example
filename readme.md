@@ -1,5 +1,8 @@
 # MicroProfile generated Application
 
+# Tutorial
+Read the tutorial here https://kodnito.com/post/microprofile-health-check
+
 ## Introduction
 
 MicroProfile Starter has generated this MicroProfile application for you.
