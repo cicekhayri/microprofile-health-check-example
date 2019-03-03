@@ -1,7 +1,7 @@
 # MicroProfile generated Application
 
 # Tutorial
-Read the tutorial here https://kodnito.com/post/microprofile-health-check
+Read the tutorial here https://kodnito.com/posts/microprofile-health-check
 
 ## Introduction
 
